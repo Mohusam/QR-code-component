@@ -31,7 +31,6 @@ body {
     background: url(./images/image-qr-code.png);
     background-size: contain;
     border-radius: 10px;
-    background-color: aqua;
 }
 .container .main-text {
     text-align: center;
