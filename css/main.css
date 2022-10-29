@@ -14,11 +14,6 @@ body {
     /* blue: #7b879d; */
     /* blue:  */
 }
-/* div.nav {
-    width: 100%;
-    height: 60px;
-    background-color: aqua;
-} */
 .container{
     width: 450px;
     height: 680px;
@@ -33,7 +28,7 @@ body {
 .container .img {
     width: 410px;
     height: 410px;
-    background: url(/css/images/image-qr-code.png);
+    background: url(./images/image-qr-code.png);
     background-size: contain;
     border-radius: 10px;
     background-color: aqua;
